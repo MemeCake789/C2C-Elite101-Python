@@ -1,2 +1,8 @@
 rich
 pynput
+pillow
+opencv-python
+climage
+term-image
+imgcat
+cv2
